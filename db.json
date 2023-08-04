@@ -1,55 +1,22 @@
 {
   "seller": [
     {
+      "name": "sahil",
+      "password": "sahil123",
+      "email": "sahil@gmail.com",
       "id": 1
     },
     {
-      "name": "",
-      "password": "",
-      "email": "",
+      "name": "ashwini",
+      "password": "ashwini123",
+      "email": "ashwini@gmail.com",
       "id": 2
     },
     {
-      "name": "Ashwini",
-      "password": "1234",
-      "email": "ashwinj@1999",
+      "name": "ashwini",
+      "password": "12345",
+      "email": "ashwini@gmail.com",
       "id": 3
-    },
-    {
-      "name": "alok",
-      "password": "2345",
-      "email": "alok@gmail.com",
-      "id": 4
-    },
-    {
-      "name": "adarsh",
-      "password": "123",
-      "email": "adarsh@gmail.com",
-      "id": 5
-    },
-    {
-      "name": "alok",
-      "password": "shwini",
-      "email": "alok@gmail.com",
-      "id": 6
-    },
-    {
-      "name": "kajal",
-      "password": "ash",
-      "email": "kajal@gmail.com",
-      "id": 7
-    },
-    {
-      "name": "kajal",
-      "password": "1234",
-      "email": "ashwini@gmail.com",
-      "id": 8
-    },
-    {
-      "name": "kajal",
-      "password": "1234",
-      "email": "ashwini@gmail.com",
-      "id": 9
     }
   ]
 }
